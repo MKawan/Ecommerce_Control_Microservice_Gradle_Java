@@ -14,6 +14,13 @@ This project aims to create a solid foundation for an e-commerce system using a 
 - 🧩 **Microservices Architecture** — Foundation for distributed and modular systems
 
 ---
+## 🖼️ Imagens
+
+<img width="1347" height="649" alt="Captura de tela de 2025-08-28 18-17-54" src="https://github.com/user-attachments/assets/0e00a0aa-fbc4-47f2-b370-2af54b3c086e" />
+
+<img width="1347" height="649" alt="Captura de tela de 2025-08-28 18-17-59" src="https://github.com/user-attachments/assets/d721e62c-b6af-4aec-8670-99eb57b801e7" />
+
+<img width="1347" height="649" alt="Captura de tela de 2025-08-28 18-18-04" src="https://github.com/user-attachments/assets/0b354319-28e0-45d8-a82a-61d7e5a6e191" />
 
 ## 📂 Project Structure
 
